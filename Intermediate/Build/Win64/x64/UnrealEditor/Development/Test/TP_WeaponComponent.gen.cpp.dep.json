@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\hiruma\\documents\\unreal projects\\test\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\hiruma\\documents\\unreal projects\\test\\intermediate\\build\\win64\\x64\\testeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\hiruma\\documents\\unreal projects\\test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test\\definitions.test.h",
+            "c:\\users\\hiruma\\documents\\unreal projects\\test\\source\\test\\tp_weaponcomponent.h",
+            "c:\\users\\hiruma\\documents\\unreal projects\\test\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
