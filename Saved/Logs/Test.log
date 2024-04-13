@@ -1307,3 +1307,25 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.04.13-18.51.34:215][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Task1/BP_Button.BP_Button
 [2024.04.13-18.51.34:215][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.04.13-18.51.34:215][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.13-18.54.23:853][881]Running D:/XboxGames/UE5.3/UE_5.3/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="E:/Unreal/Test/Test.uproject" -game -rocket -progress
+[2024.04.13-18.54.24:063][881]Using bundled DotNet SDK version: 6.0.302
+[2024.04.13-18.54.24:063][881]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="E:/Unreal/Test/Test.uproject" -game -rocket -progress
+[2024.04.13-18.54.24:667][881]Log file: C:\Users\axelr\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.04.13-18.54.24:868][881]
+[2024.04.13-18.54.24:868][881]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2024.04.13-18.54.24:868][881]See the log file for detailed information
+[2024.04.13-18.54.24:868][881]
+[2024.04.13-18.54.24:868][881]
+[2024.04.13-18.54.24:868][881]Generating VisualStudio project files:
+[2024.04.13-18.54.24:968][881]Discovering modules, targets and source code for project...
+[2024.04.13-18.54.27:482][881]Binding IntelliSense data...
+[2024.04.13-18.54.32:614][881]Binding IntelliSense data... 100%
+[2024.04.13-18.54.32:614][881]Creating common properties file...
+[2024.04.13-18.54.32:614][881]Creating common properties file... 0%
+[2024.04.13-18.54.32:614][881]Writing project files...
+[2024.04.13-18.54.39:659][881]Writing project files... 100%
+[2024.04.13-18.54.39:659][881]
+[2024.04.13-18.54.39:659][881]Generating QueryTargets data for editor...
+[2024.04.13-18.54.40:280][881]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.04.13-18.54.40:389][881]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.04.13-18.54.40:927][883]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/': No such file or directory
