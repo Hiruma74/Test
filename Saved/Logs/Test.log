@@ -1301,3 +1301,9 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.04.13-18.47.16:224][378]LogSavePackage: Moving 'E:/Unreal/Test/Saved/4E3G3EPJGOM42OCFM745CD_Auto117986FA84CECF84970ACD5B91A42BF2C.tmp' to 'E:/Unreal/Test/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/7E/4E3G3EPJGOM42OCFM745CD_Auto1.uasset'
 [2024.04.13-18.47.16:391][378]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.648
 [2024.04.13-18.47.16:391][378]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.648
+[2024.04.13-18.49.27:501][772]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/': No such file or directory
+[2024.04.13-18.49.35:209][137]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.13-18.49.35:211][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.13-18.51.34:215][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Task1/BP_Button.BP_Button
+[2024.04.13-18.51.34:215][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.13-18.51.34:215][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
