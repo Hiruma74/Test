@@ -11,6 +11,12 @@
     <None Include="..\..\Source\TestEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.gitignore.txt" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\Nouveau Document texte.txt" />
+    <None Include="..\..\README.md" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +38,12 @@
     <Filter Include="Source\Test">
       <UniqueIdentifier>{D9386F37-2A31-3E18-96BF-A16556AD2C07}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Test\MyUserWidget.cpp">
+      <Filter>Source\Test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test\MyUserWidget.h">
+      <Filter>Source\Test</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Test\Test.Build.cs">
       <Filter>Source\Test</Filter>
     </None>
