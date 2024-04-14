@@ -4318,4 +4318,157 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.04.14-14.52.54:071][769]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TasKSystem/TaskGiverComponent.TaskGiverComponent
 [2024.04.14-14.52.54:071][769]LogContentValidation: Display: Validating /Game/TaskTriggerActor.TaskTriggerActor_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TaskGiverComponent_C_UAID_FC3497E10D811EEC01_1715575655
 [2024.04.14-14.52.54:071][769]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TaskTriggerActor.TaskTriggerActor
+<<<<<<< HEAD
+>>>>>>> DevBenj
+=======
+[2024.04.14-15.06.03:612][430]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.04.14-15.06.12:882][666]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.14-15.06.41:497][298]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.14-15.06.41:504][298]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.14-15.06.41:513][298]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.14-15.06.41:527][299]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.14-15.06.50:706][184]LogContentBrowser: Attempting asset rename: NewBlueprint -> NPCTaskGiver
+[2024.04.14-15.06.50:814][184]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.14-15.06.52:760][371]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPCTaskGiver.NPCTaskGiver
+[2024.04.14-15.06.52:761][371]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-15.06.52:761][371]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-15.06.53:010][371]LogViewport: Scene viewport resized to 738x400, mode Windowed.
+[2024.04.14-15.06.54:738][492]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2024.04.14-15.07.28:448][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.14-15.07.28:450][206]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.022
+[2024.04.14-15.07.28:451][206]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TaskTriggerActor] ([2] browsable assets)...
+[2024.04.14-15.07.28:451][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/TaskTriggerActor]
+[2024.04.14-15.07.28:451][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TaskTriggerActor" FILE="../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Saved/Autosaves/Game/TaskTriggerActor_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.04.14-15.07.28:456][206]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TaskTriggerActor_Auto3
+[2024.04.14-15.07.28:456][206]LogSavePackage: Moving '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Saved/TaskTriggerActor_Auto380F756FF44CA13BD0E9AE1A540126AED.tmp' to '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Saved/Autosaves/Game/TaskTriggerActor_Auto3.uasset'
+[2024.04.14-15.07.28:457][206]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPCTaskGiver] ([2] browsable assets)...
+[2024.04.14-15.07.28:457][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCTaskGiver]
+[2024.04.14-15.07.28:457][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCTaskGiver" FILE="../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Saved/Autosaves/Game/NPCTaskGiver_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.04.14-15.07.28:460][206]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCTaskGiver_Auto3
+[2024.04.14-15.07.28:460][206]LogSavePackage: Moving '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Saved/NPCTaskGiver_Auto3EAA23F8C4A28084CE7EDDEA742D0BBDF.tmp' to '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Saved/Autosaves/Game/NPCTaskGiver_Auto3.uasset'
+[2024.04.14-15.07.28:460][206]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.04.14-15.08.05:142][324]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-15.08.11:578][796]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-15.09.02:728][464]BlueprintLog: New page: Compile NPCTaskGiver
+[2024.04.14-15.09.02:756][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.14-15.09.03:990][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-15.09.04:050][535]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-15.09.04:065][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCTaskGiver" FILE="../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Content/NPCTaskGiver.uasset" SILENT=true
+[2024.04.14-15.09.04:069][535]LogSavePackage: Moving output files for package: /Game/NPCTaskGiver
+[2024.04.14-15.09.04:069][535]LogSavePackage: Moving '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Saved/NPCTaskGiverAEE8AC024BE29A33F662BE8A16EAE3A8.tmp' to '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Content/NPCTaskGiver.uasset'
+[2024.04.14-15.09.04:304][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 313 ms (total: 1.76 sec)
+[2024.04.14-15.09.04:305][535]AssetCheck: New page: Asset Save: NPCTaskGiver
+[2024.04.14-15.09.04:305][535]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCTaskGiver.NPCTaskGiver
+[2024.04.14-15.09.18:202][599]LogViewport: Scene viewport resized to 1139x709, mode Windowed.
+[2024.04.14-15.09.18:287][601]LogViewport: Scene viewport resized to 547x282, mode Windowed.
+[2024.04.14-15.09.18:331][602]LogViewport: Scene viewport resized to 467x225, mode Windowed.
+[2024.04.14-15.09.18:981][652]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2024.04.14-15.09.19:757][737]LogSlate: Window 'NPCTaskGiver' being destroyed
+[2024.04.14-15.09.23:932][148]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NPCTaskGiver.NPCTaskGiver_C
+[2024.04.14-15.09.23:932][148]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NPCTaskGiver.NPCTaskGiver_C
+[2024.04.14-15.09.23:934][148]LogActorFactory: Actor Factory spawned Blueprint /Game/NPCTaskGiver.NPCTaskGiver as actor: NPCTaskGiver_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NPCTaskGiver_C_0
+[2024.04.14-15.09.23:934][148]LogActorFactory: Actor Factory spawned Blueprint /Game/NPCTaskGiver.NPCTaskGiver as actor: NPCTaskGiver_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NPCTaskGiver_C_0
+[2024.04.14-15.09.24:855][231]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NPCTaskGiver.NPCTaskGiver_C
+[2024.04.14-15.09.24:855][231]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NPCTaskGiver.NPCTaskGiver_C
+[2024.04.14-15.09.24:858][231]LogActorFactory: Actor Factory spawned Blueprint /Game/NPCTaskGiver.NPCTaskGiver as actor: NPCTaskGiver_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NPCTaskGiver_C_UAID_FC3497E10D8123EC01_1327416536
+[2024.04.14-15.09.24:858][231]LogActorFactory: Actor Factory spawned Blueprint /Game/NPCTaskGiver.NPCTaskGiver as actor: NPCTaskGiver_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NPCTaskGiver_C_UAID_FC3497E10D8123EC01_1327416536
+[2024.04.14-15.12.05:237][922]BlueprintLog: New page: Compile NPCTaskGiver
+[2024.04.14-15.12.05:282][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.14-15.12.05:989][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-15.12.06:115][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCTaskGiver" FILE="../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Content/NPCTaskGiver.uasset" SILENT=true
+[2024.04.14-15.12.06:120][978]LogSavePackage: Moving output files for package: /Game/NPCTaskGiver
+[2024.04.14-15.12.06:121][978]LogSavePackage: Moving '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Saved/NPCTaskGiver4975C4D547AB76A2F4CBECB656953FCB.tmp' to '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Content/NPCTaskGiver.uasset'
+[2024.04.14-15.12.06:128][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 1.90 sec)
+[2024.04.14-15.12.06:128][978]AssetCheck: New page: Asset Save: NPCTaskGiver
+[2024.04.14-15.12.06:128][978]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCTaskGiver.NPCTaskGiver
+[2024.04.14-15.13.26:486][439]BlueprintLog: New page: Compile NPCTaskGiver
+[2024.04.14-15.13.26:521][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.14-15.13.27:490][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-15.13.27:614][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCTaskGiver" FILE="../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Content/NPCTaskGiver.uasset" SILENT=true
+[2024.04.14-15.13.27:619][526]LogSavePackage: Moving output files for package: /Game/NPCTaskGiver
+[2024.04.14-15.13.27:620][526]LogSavePackage: Moving '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Saved/NPCTaskGiverC2F26A5545D2F1837BB522A673CB0A60.tmp' to '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Content/NPCTaskGiver.uasset'
+[2024.04.14-15.13.27:625][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 2.04 sec)
+[2024.04.14-15.13.27:627][526]AssetCheck: New page: Asset Save: NPCTaskGiver
+[2024.04.14-15.13.27:627][526]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCTaskGiver.NPCTaskGiver
+[2024.04.14-15.13.30:392][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.14-15.13.32:262][849]LogSlate: Window 'Save Content' being destroyed
+[2024.04.14-15.13.32:412][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-15.13.32:450][849]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/SF/6XZU8MWA3LLHI0OP02MMI4
+[2024.04.14-15.13.32:450][849]LogSavePackage: Moving '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Saved/6XZU8MWA3LLHI0OP02MMI498C2724446064694B753A99B4276811B.tmp' to '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/SF/6XZU8MWA3LLHI0OP02MMI4.uasset'
+[2024.04.14-15.13.32:453][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TaskTriggerActor" FILE="../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Content/TaskTriggerActor.uasset" SILENT=true
+[2024.04.14-15.13.32:458][849]LogSavePackage: Moving output files for package: /Game/TaskTriggerActor
+[2024.04.14-15.13.32:458][849]LogSavePackage: Moving '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Saved/TaskTriggerActor35BB6BC74EA5DD5AAC63E9B655E9E7D9.tmp' to '../../../../../../Users/Hiruma/Documents/Unreal Projects/Test/Content/TaskTriggerActor.uasset'
+[2024.04.14-15.13.32:626][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 2.25 sec)
+[2024.04.14-15.13.32:628][849]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-15.13.32:628][849]LogContentValidation: Display: Validating /Game/NPCTaskGiver.NPCTaskGiver_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NPCTaskGiver_C_UAID_FC3497E10D8123EC01_1327416536
+[2024.04.14-15.13.32:628][849]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TaskTriggerActor.TaskTriggerActor
+[2024.04.14-15.13.35:365][139]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.14-15.13.35:371][139]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.14-15.13.35:371][139]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.04.14-15.13.35:372][139]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 4 ms)
+[2024.04.14-15.13.35:375][139]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.14-15.13.35:376][139]LogPlayLevel: [PlayLevel] Compiling TaskTriggerActor before play...
+[2024.04.14-15.13.35:409][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.14-15.13.35:411][139]LogPlayLevel: PlayLevel: Blueprint regeneration took 35 ms (1 blueprints)
+[2024.04.14-15.13.35:411][139]PIE: New page: PIE session: FirstPersonMap (14 avr. 2024 à 19:13:35)
+[2024.04.14-15.13.35:444][139]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.04.14-15.13.35:447][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003363s)
+[2024.04.14-15.13.35:447][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003401s)
+[2024.04.14-15.13.35:462][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.14-15.13.35:462][139]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-15.13.35:463][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-15.13.35:463][139]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.04.14-15.13.35:463][139]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.14-15.13.35:463][139]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.14-15.13.35:463][139]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.14-15.13.35:463][139]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.14-15.13.35:464][139]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.04.14-15.13.35:464][139]LogWorldPartition: Display: WorldPartition initialize took 924 us (total: 341 ms)
+[2024.04.14-15.13.35:464][139]LogPlayLevel: PIE: World Init took: (0.002033s)
+[2024.04.14-15.13.35:464][139]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.14-15.13.35:464][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.14-15.13.35:464][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.14-15.13.35:464][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.14-15.13.35:464][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.14-15.13.35:464][139]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.14-15.13.35:465][139]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.14-15.13.35:465][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.14-15.13.35:465][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.14-15.13.35:465][139]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.14-15.13.35:465][139]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.14-15.13.35:465][139]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.14-15.13.35:468][139]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.14-15.13.35:490][139]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Focusrite Usb Audio)
+[2024.04.14-15.13.35:491][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.14-15.13.35:491][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.14-15.13.35:491][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.14-15.13.35:491][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.14-15.13.35:491][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.14-15.13.35:515][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.14-15.13.35:515][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.14-15.13.35:515][139]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.14-15.13.35:515][139]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2024.04.14-15.13.35:515][139]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.14-15.13.35:518][139]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.14-15.13.35:520][139]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.04.14-17.13.35
+[2024.04.14-15.13.35:520][139]LogWorld: Bringing up level for play took: 0.001845
+[2024.04.14-15.13.35:542][139]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.04.14-15.13.35:545][139]LogTemp: Warning: BeginPlay
+[2024.04.14-15.13.35:545][139]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.04.14-15.13.35:545][139]PIE: Server logged in
+[2024.04.14-15.13.35:545][139]PIE: Play in editor total start time 0,174 seconds.
+[2024.04.14-15.13.39:464][592]LogBlueprintUserMessages: [TaskGiverComponent] Push Button
+[2024.04.14-15.13.41:664][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-15.13.41:664][851]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.04.14-15.13.41:664][851]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-15.13.41:664][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-15.13.41:665][851]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.04.14-15.13.41:756][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.14-15.13.41:760][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-15.13.41:775][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-15.13.41:776][851]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.14-15.13.41:776][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.14-15.13.41:779][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.14-15.13.41:838][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.14-15.13.41:951][852]LogPlayLevel: Display: Destroying online subsystem :Context_24
 >>>>>>> DevBenj
