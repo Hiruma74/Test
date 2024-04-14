@@ -35,6 +35,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 "C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\TestEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\MyUserWidget.gen.cpp.obj"
 "C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\Test.init.gen.cpp.obj"
 "C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\TestCharacter.gen.cpp.obj"
 "C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\TestGameMode.gen.cpp.obj"
@@ -49,7 +50,9 @@
 "C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\TestProjectile.cpp.obj"
 "C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\TP_PickUpComponent.cpp.obj"
 "C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\TP_WeaponComponent.cpp.obj"
+"C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\MyUserWidget.cpp.obj"
 "C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\Default.rc2.res"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\UMG\UnrealEditor-UMG.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
