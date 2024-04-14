@@ -65,6 +65,12 @@
     <ClInclude Include="..\..\Source\Test\TestGameMode.h">
       <Filter>Source\Test</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Test\TestingActor.cpp">
+      <Filter>Source\Test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test\TestingActor.h">
+      <Filter>Source\Test</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Test\TestPlayerController.cpp">
       <Filter>Source\Test</Filter>
     </ClCompile>
