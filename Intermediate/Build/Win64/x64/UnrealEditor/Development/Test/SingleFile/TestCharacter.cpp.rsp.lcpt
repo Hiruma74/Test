@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 "E:\Unreal\Test\Source\Test\TestCharacter.cpp"
 /FI"E:\Unreal\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\Definitions.Test.h"
 /Fo"E:\Unreal\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\SingleFile\TestCharacter.cpp.lcpt.obj"
 /sourceDependencies"E:\Unreal\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\SingleFile\TestCharacter.cpp.dep.lcpt.json"
 @"E:\Unreal\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\Test.Shared.rsp"
+=======
+"C:\Users\Hiruma\Documents\Unreal Projects\Test\Source\Test\TestCharacter.cpp"
+/FI"C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\Definitions.Test.h"
+/Fo"C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\SingleFile\TestCharacter.cpp.lcpt.obj"
+/sourceDependencies"C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\SingleFile\TestCharacter.cpp.dep.lcpt.json"
+@"C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\Test.Shared.rsp"
+>>>>>>> DevBenj
 /Zc:inline
 /nologo
 /Oi

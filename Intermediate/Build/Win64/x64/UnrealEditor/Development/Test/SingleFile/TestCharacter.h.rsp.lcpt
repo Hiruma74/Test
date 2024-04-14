@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 "E:\Unreal\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\SingleFile\TestCharacter.h"
 /FI"E:\Unreal\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\Definitions.Test.h"
 /Fo"E:\Unreal\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\SingleFile\TestCharacter.h.lcpt.obj"
 /sourceDependencies"E:\Unreal\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\SingleFile\TestCharacter.h.dep.lcpt.json"
 @"E:\Unreal\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\Test.Shared.rsp"
+=======
+"C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\SingleFile\TestCharacter.h"
+/FI"C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\Definitions.Test.h"
+/Fo"C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\SingleFile\TestCharacter.h.lcpt.obj"
+/sourceDependencies"C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\SingleFile\TestCharacter.h.dep.lcpt.json"
+@"C:\Users\Hiruma\Documents\Unreal Projects\Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\Test\Test.Shared.rsp"
+>>>>>>> DevBenj
 /Zc:inline
 /nologo
 /Oi
